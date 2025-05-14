@@ -7,8 +7,6 @@ O Assistente de Jardinagem é um aplicativo móvel desenvolvido em Flutter que a
 
 ## Imagens ou GIFs do App Funcionando
 
-*(Aqui você adicionará screenshots ou um GIF do seu app em execução. Por exemplo:)*
-
 **Tela Principal:**
 ![Tela Principal do App](assets/screenshot_main.png)
 **Interação com o Assistente:**
